@@ -1,0 +1,1 @@
+Epoch: [89]	Time 0.297	Data 0.236	Loss 0.8656	Acc@1 65.875	Acc@5 100.000
